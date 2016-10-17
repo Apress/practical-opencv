@@ -1,0 +1,6 @@
+/home/samarth/Documents/book/code/src/chapter9/stereo/build/CMakeFiles/code9-2.dir
+/home/samarth/Documents/book/code/src/chapter9/stereo/build/CMakeFiles/code9-3.dir
+/home/samarth/Documents/book/code/src/chapter9/stereo/build/CMakeFiles/code9-4.dir
+/home/samarth/Documents/book/code/src/chapter9/stereo/build/CMakeFiles/code9-5.dir
+/home/samarth/Documents/book/code/src/chapter9/stereo/build/CMakeFiles/code9-6.dir
+/home/samarth/Documents/book/code/src/chapter9/stereo/build/CMakeFiles/code9-7.dir

@@ -1,0 +1,4 @@
+// Preprocessor directives to set variables from values in the CMakeLists.txt files
+#define DATA_FOLDER "@DATA_FOLDER@"
+#define LEFT_FOLDER "@LEFT_FOLDER@"
+#define RIGHT_FOLDER "@RIGHT_FOLDER@"

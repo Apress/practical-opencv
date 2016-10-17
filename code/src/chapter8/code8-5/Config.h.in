@@ -1,0 +1,4 @@
+// Preprocessor directives to set variables from values in the CMakeLists.txt files
+#define DATA_FOLDER "@DATA_FOLDER@"
+#define TRAIN_FOLDER "@TRAIN_FOLDER@"
+#define TEMPLATE_FOLDER "@TEMPLATE_FOLDER@"

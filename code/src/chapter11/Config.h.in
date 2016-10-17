@@ -1,0 +1,5 @@
+// Preprocessor directives to set variables from values in the CMakeLists.txt files
+#define DATA_FOLDER_1 "@DATA_FOLDER_1@"
+#define DATA_FOLDER_2 "@DATA_FOLDER_2@"
+#define DATA_FOLDER_3 "@DATA_FOLDER_3@"
+#define DATA_FOLDER_5 "@DATA_FOLDER_5@"
